@@ -45,7 +45,7 @@ flutter:
   fonts:
     - family: Raleway
       fonts:
-        - asset: assets/fonts/esDR31xSG-6AGleN6tKukbcHCpE.ttf
+        - asset: assets/fonts/YoungSerif-Regular.ttf
           style: italic
   assets:
     - assets/icons/
