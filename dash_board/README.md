@@ -7,4 +7,4 @@ A new Flutter project.
 the bashboard show the resources the you use like pdf ,cloud,document and deleteed
 but it is in system
 
-![Alt text](relative%20screenshot.png?raw=true "Title")
+![Alt text](./screenshot.png?raw=true "Title")
